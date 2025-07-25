@@ -10,7 +10,7 @@ This project demonstrates the design of a weight sensing system using load cells
 ## Presentation
 The detailed system explanation and design decisions are summarized in the presentation pdf:  
 
-- [`weight_measurement_presentation.pdf`](GRP_2_WEIGHT MEASUREMENT_FINAL_PPT_compressed (1).pdf)
+- [`weight_measurement_presentation.pdf`](.GRP_2_WEIGHT MEASUREMENT_FINAL_PPT_compressed (1).pdf)
 
 ## Tools & Components
 - **Hardware:** Load Cells, HX711 Modules, Microcontroller  
